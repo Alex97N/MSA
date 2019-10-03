@@ -1,1 +1,1 @@
-# MSA
+    A mobile card game that will have PVP mode and campaign mode (PVE), and the users will each have their own account and will have to complete missions and farm resources in order to evolve their cards.
